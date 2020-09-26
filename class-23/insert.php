@@ -19,7 +19,7 @@
         else{
                 echo "<script> alert('Something Went Wrong')</script>".mysqli_error($conn);
         }
-   }
+   }7
 ?>
 <?php
     include 'singup.php';
